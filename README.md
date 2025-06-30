@@ -1,7 +1,7 @@
 # 👋 Halo, saya Athaya Dzaky! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Mahasiswa+Teknik+Informatika;Pengguna+Debian+12+Setia;Tertarik+pada+Jaringan+Komputer;Senang+Ngulik+dan+Belajar+Hal+Baru" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Mahasiswa+Teknik+Informatika;Pengguna+Debian+12+Setia;Tertarik+pada+Jaringan+Komputer;Senang+Ngulik+dan+Belajar+Hal+Baru" />
 </p>
 
 ---
@@ -60,5 +60,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athayadzaky80@gmail.com)
 
 ---
+
+## 🐍 Animasi Kontribusi Saya
+
+![github contribution snake](https://github.com/Tayya-gacor/Tayya-gacor/blob/output/github-contribution-grid-snake.svg)
 
 > 🔥 *"Belajar jaringan itu bukan soal kabel, tapi soal koneksi — antarmanusia dan antarsistem."*
