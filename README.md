@@ -61,8 +61,6 @@
 
 ---
 
-## 🐍 Animasi Kontribusi Saya
 
-![github contribution snake](https://github.com/Tayya-gacor/Tayya-gacor/blob/output/github-contribution-grid-snake.svg)
 
 > 🔥 *"Belajar jaringan itu bukan soal kabel, tapi soal koneksi — antarmanusia dan antarsistem."*
