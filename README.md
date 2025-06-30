@@ -3,7 +3,7 @@
 ## 🚀 Tentang Saya
 🎓 Mahasiswa Teknologi Informasi yang antusias dengan dunia pemrograman, pengembangan aplikasi, dan keamanan siber.  
 💡 Suka mengeksplorasi teknologi baru, mulai dari Flutter, Python, hingga Machine Learning.  
-🌱 Saat ini sedang belajar lebih dalam tentang **DevOps**, **Cloud Computing**, dan **UI/UX Design**.
+🌱 Saat ini sedang belajar lebih dalam tentang **Delevop Server**, **Networking**, dan **UI/UX Design**.
 
 ---
 
