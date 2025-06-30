@@ -21,8 +21,8 @@
 ## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight" alt="Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight" alt="Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayya-gacor&show_icons=true&theme=tokyonight" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayya-gacor&layout=compact&theme=tokyonight" alt="Languages" height="150"/>
 </p>
 
 ---
