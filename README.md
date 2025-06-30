@@ -35,6 +35,17 @@
 
 ---
 
+## 🎧 Kecintaan pada Dunia Audio
+
+🔊 Selain dunia teknologi, saya juga memiliki minat besar dalam bidang **audio profesional**, khususnya:  
+- 🎚️ **Sound System Setup** — Mengatur dan menyeimbangkan sistem audio untuk acara kecil maupun besar.  
+- 🎛️ **Audio Mixing & Editing** — Menggunakan software seperti Studio one 6, FL Studio untuk mixing lagu, efek, dan suara latar.  
+- 🎤 **Live Sound Engineering** — Mengelola suara langsung untuk band, podcast, atau seminar.
+
+🎶 Bagi saya, suara yang jernih dan tertata adalah seni yang setara dengan baris kode yang sempurna.
+
+---
+
 ## 📈 Statistik GitHub
 
 <p align="center">
@@ -60,7 +71,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athayadzaky80@gmail.com)
 
 ---
-
-
 
 > 🔥 *"Belajar jaringan itu bukan soal kabel, tapi soal koneksi — antarmanusia dan antarsistem."*
